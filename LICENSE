@@ -1,0 +1,31 @@
+Copyright © 2026 Sapphire. All rights reserved.
+
+This software (the "Software") is licensed, not sold, and is made available
+solely in compiled, binary form. The source code is not published under this
+repository or this license.
+
+Subject to the terms below, you are granted a limited, non-exclusive,
+non-transferable, revocable license to download, install, and run the Software
+for the sole purpose of accessing and using the Sapphire service.
+
+You may not, in whole or in part:
+
+  * redistribute, sell, sublicense, rent, lease, or otherwise make the Software
+    available to any third party;
+  * modify, adapt, translate, or create derivative works of the Software;
+  * reverse-engineer, decompile, or disassemble the Software, or otherwise
+    attempt to derive its source code, except to the extent this restriction is
+    prohibited by applicable law; or
+  * remove, obscure, or alter any proprietary notices in or on the Software.
+
+The Software incorporates third-party open-source components, each of which is
+governed by its own license. Those licenses are reproduced in the accompanying
+third-party notices distributed with the Software and continue to apply to
+their respective components.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
